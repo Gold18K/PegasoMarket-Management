@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JfztMlAcvcc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Andrea\\source\\repos\\EOQ Project Work\\EOQ Project Work\\EOQ Project Work.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrea\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Andrea\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Andrea\\.nuget\\packages\\npgsql\\9.0.3\\npgsql.9.0.3.nupkg.sha512",
+    "C:\\Users\\Andrea\\.nuget\\packages\\winforms.datavisualization\\1.10.0\\winforms.datavisualization.1.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}

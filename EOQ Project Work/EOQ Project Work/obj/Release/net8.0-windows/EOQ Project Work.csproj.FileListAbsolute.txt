@@ -1,0 +1,27 @@
+C:\Users\Andrea\source\repos\EOQ Project Work\EOQ Project Work\bin\Release\net8.0-windows\EOQ Project Work.exe
+C:\Users\Andrea\source\repos\EOQ Project Work\EOQ Project Work\bin\Release\net8.0-windows\EOQ Project Work.deps.json
+C:\Users\Andrea\source\repos\EOQ Project Work\EOQ Project Work\bin\Release\net8.0-windows\EOQ Project Work.runtimeconfig.json
+C:\Users\Andrea\source\repos\EOQ Project Work\EOQ Project Work\bin\Release\net8.0-windows\EOQ Project Work.dll
+C:\Users\Andrea\source\repos\EOQ Project Work\EOQ Project Work\bin\Release\net8.0-windows\EOQ Project Work.pdb
+C:\Users\Andrea\source\repos\EOQ Project Work\EOQ Project Work\obj\Release\net8.0-windows\EOQ Project Work.csproj.GenerateResource.cache
+C:\Users\Andrea\source\repos\EOQ Project Work\EOQ Project Work\obj\Release\net8.0-windows\EOQ Project Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\source\repos\EOQ Project Work\EOQ Project Work\obj\Release\net8.0-windows\EOQ Project Work.AssemblyInfoInputs.cache
+C:\Users\Andrea\source\repos\EOQ Project Work\EOQ Project Work\obj\Release\net8.0-windows\EOQ Project Work.AssemblyInfo.cs
+C:\Users\Andrea\source\repos\EOQ Project Work\EOQ Project Work\obj\Release\net8.0-windows\EOQ Project Work.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\source\repos\EOQ Project Work\EOQ Project Work\obj\Release\net8.0-windows\EOQ Project Work.dll
+C:\Users\Andrea\source\repos\EOQ Project Work\EOQ Project Work\obj\Release\net8.0-windows\refint\EOQ Project Work.dll
+C:\Users\Andrea\source\repos\EOQ Project Work\EOQ Project Work\obj\Release\net8.0-windows\EOQ Project Work.pdb
+C:\Users\Andrea\source\repos\EOQ Project Work\EOQ Project Work\obj\Release\net8.0-windows\EOQ Project Work.genruntimeconfig.cache
+C:\Users\Andrea\source\repos\EOQ Project Work\EOQ Project Work\obj\Release\net8.0-windows\ref\EOQ Project Work.dll
+C:\Users\Andrea\source\repos\EOQ Project Work\EOQ Project Work\obj\Release\net8.0-windows\EOQ_Project_Work.MenuForm.resources
+C:\Users\Andrea\source\repos\EOQ Project Work\EOQ Project Work\obj\Release\net8.0-windows\EOQ_Project_Work.VisualizzaForm.resources
+C:\Users\Andrea\source\repos\EOQ Project Work\EOQ Project Work\bin\Release\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Andrea\source\repos\EOQ Project Work\EOQ Project Work\bin\Release\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Andrea\source\repos\EOQ Project Work\EOQ Project Work\bin\Release\net8.0-windows\Npgsql.dll
+C:\Users\Andrea\source\repos\EOQ Project Work\EOQ Project Work\obj\Release\net8.0-windows\EOQ Project Work.csproj.AssemblyReference.cache
+C:\Users\Andrea\source\repos\EOQ Project Work\EOQ Project Work\obj\Release\net8.0-windows\EOQ Proj.01A37DC0.Up2Date
+C:\Users\Andrea\source\repos\EOQ Project Work\EOQ Project Work\bin\Release\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\Andrea\source\repos\EOQ Project Work\EOQ Project Work\bin\Release\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\Andrea\source\repos\EOQ Project Work\EOQ Project Work\obj\Release\net8.0-windows\EOQ_Project_Work.AddEditForm.resources
+C:\Users\Andrea\source\repos\EOQ Project Work\EOQ Project Work\obj\Release\net8.0-windows\EOQ_Project_Work.EditForm.resources
+C:\Users\Andrea\source\repos\EOQ Project Work\EOQ Project Work\obj\Release\net8.0-windows\EOQ_Project_Work.DeleteForm.resources
